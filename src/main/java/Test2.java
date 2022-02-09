@@ -5,5 +5,9 @@ public class Test2 {
         //qeky test bon diqka
     }
 
+    public void testIDyte(){
+        //qeky test sbon kurgjo
+    }
+
 
 }
