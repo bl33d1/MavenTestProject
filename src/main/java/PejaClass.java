@@ -8,4 +8,10 @@ public class PejaClass {
     public void thisTest2(){
         System.out.println("This test does smth");
     }
+
+    public String pejaTest(String str){
+        if (str.length()<2)
+            return str;
+        return str.toLowerCase();
+    }
 }
