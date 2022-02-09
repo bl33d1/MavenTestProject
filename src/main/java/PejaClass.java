@@ -1,4 +1,4 @@
-public class Test4 {
+public class PejaClass {
     public static void main(String[] args) {
 
     }
