@@ -4,4 +4,12 @@ public class Test3 {
 
        //bon diqka palidhjeeee
    }
+
+
+   public static void palidhee(){
+
+      //bon diqka palidhjeeee
+   }
+
+
 }
