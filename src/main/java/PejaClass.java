@@ -8,4 +8,8 @@ public class PejaClass {
     public void thisTest2(){
         System.out.println("This test does smth");
     }
+
+    public void newTest(){
+        System.out.println("Konflikt");
+    }
 }
